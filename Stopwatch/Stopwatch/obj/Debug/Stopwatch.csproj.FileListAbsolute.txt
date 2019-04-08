@@ -1,0 +1,7 @@
+D:\Akademija Programiranje Sivus\C#\Stopwatch exc\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+D:\Akademija Programiranje Sivus\C#\Stopwatch exc\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+D:\Akademija Programiranje Sivus\C#\Stopwatch exc\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+D:\Akademija Programiranje Sivus\C#\Stopwatch exc\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojAssemblyReference.cache
+D:\Akademija Programiranje Sivus\C#\Stopwatch exc\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+D:\Akademija Programiranje Sivus\C#\Stopwatch exc\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+D:\Akademija Programiranje Sivus\C#\Stopwatch exc\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
